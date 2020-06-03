@@ -21,3 +21,6 @@ erl_crash.dump
 
 *.beam
 /config/*.secret.exs
+
+# Ignore OSX files
+**/.DS_Store
